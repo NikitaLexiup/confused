@@ -227,7 +227,7 @@ header > div > h3 {
 }
 
 .text_3 {
-  font-size: 24px;
+  font-size: 20px;
   -webkit-animation: 10.5s linear 1s infinite running text-animation-1;
           animation: 10.5s linear 1s infinite running text-animation-1;
 }
