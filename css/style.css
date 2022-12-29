@@ -313,7 +313,7 @@ header > div > h3 {
 }
 
 .text_16 {
-  font-size: 14px;
+  font-size: 12px;
   font-weight: bold;
   -webkit-animation: 10s linear 2.2s infinite running text-animation-1;
           animation: 10s linear 2.2s infinite running text-animation-1;
